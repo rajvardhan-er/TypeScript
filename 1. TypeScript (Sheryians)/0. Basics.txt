@@ -1,0 +1,5 @@
+TypeScript gives us type-safety and more features than JavaScript
+
+Improved version of JavaScript
+
+Node.js --> We can run JavaScript everywhere
