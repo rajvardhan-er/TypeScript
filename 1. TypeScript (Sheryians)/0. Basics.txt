@@ -1,3 +1,4 @@
+Source Link : https://youtu.be/lVzb6pmel_E?si=VgB0LLm51FgYvmTY
 TypeScript gives us type-safety and more features than JavaScript
 
 Improved version of JavaScript
