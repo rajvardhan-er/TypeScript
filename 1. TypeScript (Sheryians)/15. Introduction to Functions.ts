@@ -1,6 +1,6 @@
 // 02:50:10 - 03:03:04 - Introduction to Functions
 
-// Functions
+// Functions 
 // Function Types
 // Optional and default parameters
 // Rest Parameters
