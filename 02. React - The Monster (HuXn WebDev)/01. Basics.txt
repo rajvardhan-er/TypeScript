@@ -11,3 +11,9 @@ JSX --> JSX allows us to write HTML in React. JSX makes it easier to write & add
 
 Expression In JSX --> With JSX you can write expression inside curly braces. The expressions can be a React variable, or property, or any other valid JavaScript expression.
                       JSX will execute the expression and return the result.
+
+Lists --> In react, you wil render lists with some type of loop. The JavaScript map() array method is generally the preferred method.
+
+Props --> Props / Properties are arguments passed into React components.
+          Props allows us to pass data from parent component to a child component.
+          Props are passed to components via HTML attributes.
