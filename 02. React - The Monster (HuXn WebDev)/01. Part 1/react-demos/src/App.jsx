@@ -1,14 +1,12 @@
 import React from 'react'
-import Header from './Components/Header'
-import Main from './Components/Main'
-import Footer from './Components/Footer'
+import Greet from './Components/Greet'
+import Productinfo from './Components/Productinfo';
 
 const App = () => {
   return (
     <div>
-      <Header />
-      <Main />
-      <Footer />
+      <Greet />
+      <Productinfo />
     </div>
   )
 }

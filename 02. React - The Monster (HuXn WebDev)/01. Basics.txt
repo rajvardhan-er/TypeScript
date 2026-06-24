@@ -8,3 +8,6 @@ React --> React is a free and open source JavaScript library specifically design
 Component --> Component are independent & reusable bits of code. They serve the same purpose as JS functions, but work in isolation and return HTML.
 
 JSX --> JSX allows us to write HTML in React. JSX makes it easier to write & add HTML in React.
+
+Expression In JSX --> With JSX you can write expression inside curly braces. The expressions can be a React variable, or property, or any other valid JavaScript expression.
+                      JSX will execute the expression and return the result.
