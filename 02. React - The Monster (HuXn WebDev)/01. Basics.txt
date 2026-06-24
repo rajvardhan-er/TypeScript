@@ -1,0 +1,10 @@
+React --> React is a free and open source JavaScript library specifically designed for building user interfaces (UI).
+
+- Developed by Facebook in 2011
+- Use Components Model --> A component is a peace of the UI that has it's own logic and appearance. A component can be small as a button or large as entire page.
+- Build Modular Apps
+- Learn Once, write Anywhere --> React Native (Mobile Apps Development), React Desktop, React 360
+
+Component --> Component are independent & reusable bits of code. They serve the same purpose as JS functions, but work in isolation and return HTML.
+
+JSX --> JSX allows us to write HTML in React. JSX makes it easier to write & add HTML in React.
